@@ -70,4 +70,4 @@ ___
 
 ## Submission
 Choose one of the following
-- provide a public repository where we can view/download your solution
+- Come back to this repository and submit a pull request of your solution.
