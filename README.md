@@ -1,7 +1,7 @@
 # Technical Assessment
 NOTE: The majority of the work for this position will be using JS with ES6 syntax.
 ## Overview
-Please complete this exercise with node.js and ES6. This exercise is intended to take no longer than 4 hours.  Please limit the detail of your solution with that time in mind.  Please include a README with your detailing your solution.
+Please complete this exercise with node.js and ES6. This exercise is intended to take no longer than 4 hours.  Please limit the detail of your solution with that time in mind.  Please include a README with your submission detailing your solution.
 
 For example, 
 ```
